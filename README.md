@@ -9,9 +9,9 @@
 <p align="center"></blockquote>
 
 <p align="center">
-  <img alt="DevSamurai" src="https://lh3.googleusercontent.com/LMHd9wzWu1k186U7L4I8yvH7_Xz_g6Zxc01yY1c8DjVvK-01pulbkQt6k3669E68skA=w720-h310" width="200px" />
-  <img alt="DevSamurai" src="https://lh3.googleusercontent.com/IR4pHly0NxS11I8ScMhiAovWeGE7-FYGuhapI7ynPZQ5bW8-fS2wDubENbvDFBFx6l0=w720-h310" width="200px" />
-  <img alt="DevSamurai" src="https://lh3.googleusercontent.com/-d6RTMunSCKmgtUoYUnPfcnuPT4ly2pNE3p9xBTIGyZxQEUXomR1rZE2N2iuSmhvWlA=w720-h310" width="200px" />
+  <img alt="DevSamurai" src="" width="200px" />
+  <img alt="DevSamurai" src="" width="200px" />
+  <img alt="DevSamurai" src="" width="200px" />
 </p>
 
 ## :rocket: Sobre o Aplicativo
