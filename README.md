@@ -8,12 +8,6 @@
 
 <p align="center"></blockquote>
 
-<p align="center">
-  <img alt="DevSamurai" src="" width="200px" />
-  <img alt="DevSamurai" src="" width="200px" />
-  <img alt="DevSamurai" src="" width="200px" />
-</p>
-
 ## :rocket: Sobre o Aplicativo
 
 O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
